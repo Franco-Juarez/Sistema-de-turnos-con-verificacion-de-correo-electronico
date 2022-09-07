@@ -1,5 +1,5 @@
-<h1>Sistema-de-turnos-con-verificaci-n-de-correo-electr-nico<h1>
-✨<h2>Primer entrega complementaria del curso de Js de CoderHouse.<h2>
+# Sistema-de-turnos-con-verificaci-n-de-correo-electr-nico
+✨Primer entrega complementaria del curso de Js de CoderHouse.
 
 💻<p> En este repositorio podrán encontrar mis primeras líneas de código en JavaScript. La idea fue combinar el uso de un ciclo for con un Do-While para crear un pequeño sistema de turnos con verificación de correo electrónico
 <p>
